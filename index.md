@@ -53,10 +53,14 @@ See [/map/](map/) for the interactive Leaflet choropleth of state suicide rates 
 
 ## Citation
 
-> [Author]. (2026). *India Suicide Prevention Intervention Atlas v1.0*.
-> Companion to: State-level reconciliation and equity decomposition of suicide
-> mortality in India (manuscript submitted to Indian Journal of Medical Research).
-> Available at: [GitHub Pages URL]. DOI: [Zenodo on first release].
+> Siddalingaiah HS. (2026). *India Suicide Prevention Intervention Atlas v1.0*.
+> Companion to: State-level reconciliation of suicide mortality in India to inform
+> the National Suicide Prevention Strategy 2030 target (manuscript submitted to
+> Indian Journal of Medical Research).
+> Available at: https://hssling.github.io/india-suicide-prevention-atlas/.
+> Source: https://github.com/hssling/india-suicide-prevention-atlas.
+> Licence: CC BY 4.0. DOI: pending Zenodo mint on first GitHub release.
+> ORCID: 0000-0002-4771-8285.
 
 ## Reproducibility
 
