@@ -1,0 +1,34 @@
+{
+  "baseline_2024_ncrb": 170746,
+  "nsps_target_2030": 153671,
+  "nsps_reduction_needed": 17075,
+  "yll_per_suicide": 32,
+  "top_5_portfolio": {
+    "top_n": 5,
+    "interventions": [
+      "IN10",
+      "LL02",
+      "LL01",
+      "IN01",
+      "IN09"
+    ],
+    "sum_effect_uncapped_pct": 56.0,
+    "portfolio_lives_saved_year1_capped": 17075,
+    "portfolio_cost_inr_crores_2025_2030": 4427.4,
+    "nsps_target_met_pct": 100.0,
+    "shortfall_lives": 0
+  },
+  "top_3_portfolio": {
+    "top_n": 3,
+    "interventions": [
+      "IN10",
+      "LL02",
+      "LL01"
+    ],
+    "sum_effect_uncapped_pct": 38.0,
+    "portfolio_lives_saved_year1_capped": 17075,
+    "portfolio_cost_inr_crores_2025_2030": 3476.7,
+    "nsps_target_met_pct": 100.0,
+    "shortfall_lives": 0
+  }
+}

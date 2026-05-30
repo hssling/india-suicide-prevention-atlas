@@ -1,0 +1,15 @@
+intervention_id,intervention_name,effect_pct,evidence_grade,lives_saved_year1,lives_saved_cumulative_2025_2030,dalys_averted_cumulative,cost_total_2025_2030_inr_crores,cost_per_life_saved_inr_lakhs,nsps_target_contribution_pct
+LL01,Pesticide regulation (means restriction),30,4,51224,307344,9835008,3442.3,1.1,300.0
+IN06,Farmer-distress credit + counselling package,25,3,42686,256116,8195712,9834.9,3.8,250.0
+IN04,Post-attempt peer support (DAPHNE model),20,3,34149,204894,6556608,2294.8,1.1,200.0
+LL04,Early identification + brief contact intervention,17,3,29027,174162,5573184,2340.7,1.3,170.0
+LL03,Adolescent socio-emotional skills training,15,4,25612,153672,4917504,4179.9,2.7,150.0
+IN02,mhGAP-IG primary-care integration,12,4,20490,122940,3934080,2360.4,1.9,120.0
+IN07,University-based screening + counselling cells,10,2,17075,102450,3278400,1803.1,1.8,100.0
+IN01,Tele-MANAS national helpline expansion,10,2,17075,102450,3278400,819.6,0.8,100.0
+IN09,Alcohol availability restriction (state-level),8,2,13660,81960,2622720,131.1,0.2,80.0
+IN05,Workplace mental-health screening (IT sector),8,3,13660,81960,2622720,3934.1,4.8,80.0
+LL02,Responsible media reporting guidelines,5,3,8537,51222,1639104,24.6,0.0,50.0
+IN03,Crisis helpline scale-up (iCALL/AASRA/Vandrevala),5,2,8537,51222,1639104,196.7,0.4,50.0
+IN10,Decriminalisation impact monitoring (MHCA 2017 Sec 115),3,2,5122,30732,983424,9.8,0.0,30.0
+IN08,Bridge/jumping-site means restriction (barriers + hotline),2,4,3415,20490,655680,163.9,0.8,20.0

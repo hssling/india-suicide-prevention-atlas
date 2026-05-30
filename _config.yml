@@ -1,0 +1,27 @@
+title: India Suicide Prevention Intervention Atlas
+description: >-
+  An open-access, evidence-graded atlas of suicide-prevention interventions
+  for India, with state-level burden context, TOPSIS multi-criteria ranking,
+  and NSPS-2030 impact projections.
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+collections:
+  interventions:
+    output: true
+    permalink: /interventions/:name/
+defaults:
+  - scope:
+      path: ""
+      type: "interventions"
+    values:
+      layout: "intervention"
+license: CC BY 4.0
