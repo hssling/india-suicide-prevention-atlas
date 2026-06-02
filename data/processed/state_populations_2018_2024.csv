@@ -1,0 +1,253 @@
+state,year,population_m
+Andhra Pradesh,2018,53.337
+Andhra Pradesh,2019,53.897
+Andhra Pradesh,2020,54.462
+Andhra Pradesh,2021,55.034
+Andhra Pradesh,2022,55.611
+Andhra Pradesh,2023,56.195
+Andhra Pradesh,2024,56.784
+Arunachal Pradesh,2018,1.621
+Arunachal Pradesh,2019,1.659
+Arunachal Pradesh,2020,1.698
+Arunachal Pradesh,2021,1.737
+Arunachal Pradesh,2022,1.778
+Arunachal Pradesh,2023,1.819
+Arunachal Pradesh,2024,1.862
+Assam,2018,34.815
+Assam,2019,35.363
+Assam,2020,35.919
+Assam,2021,36.484
+Assam,2022,37.059
+Assam,2023,37.642
+Assam,2024,38.234
+Bihar,2018,121.767
+Bihar,2019,124.525
+Bihar,2020,127.345
+Bihar,2021,130.229
+Bihar,2022,133.178
+Bihar,2023,136.194
+Bihar,2024,139.279
+Chhattisgarh,2018,29.467
+Chhattisgarh,2019,30.073
+Chhattisgarh,2020,30.693
+Chhattisgarh,2021,31.324
+Chhattisgarh,2022,31.969
+Chhattisgarh,2023,32.627
+Chhattisgarh,2024,33.299
+Goa,2018,1.543
+Goa,2019,1.555
+Goa,2020,1.567
+Goa,2021,1.58
+Goa,2022,1.592
+Goa,2023,1.605
+Goa,2024,1.618
+Gujarat,2018,68.387
+Gujarat,2019,69.604
+Gujarat,2020,70.844
+Gujarat,2021,72.105
+Gujarat,2022,73.389
+Gujarat,2023,74.695
+Gujarat,2024,76.025
+Haryana,2018,28.784
+Haryana,2019,29.311
+Haryana,2020,29.848
+Haryana,2021,30.395
+Haryana,2022,30.951
+Haryana,2023,31.518
+Haryana,2024,32.095
+Himachal Pradesh,2018,7.463
+Himachal Pradesh,2019,7.554
+Himachal Pradesh,2020,7.645
+Himachal Pradesh,2021,7.738
+Himachal Pradesh,2022,7.832
+Himachal Pradesh,2023,7.927
+Himachal Pradesh,2024,8.023
+Jammu & Kashmir,2018,14.232
+Jammu & Kashmir,2019,14.536
+Jammu & Kashmir,2020,14.848
+Jammu & Kashmir,2021,15.166
+Jammu & Kashmir,2022,15.49
+Jammu & Kashmir,2023,15.822
+Jammu & Kashmir,2024,16.161
+Jharkhand,2018,38.004
+Jharkhand,2019,38.78
+Jharkhand,2020,39.572
+Jharkhand,2021,40.38
+Jharkhand,2022,41.204
+Jharkhand,2023,42.046
+Jharkhand,2024,42.904
+Karnataka,2018,67.667
+Karnataka,2019,68.661
+Karnataka,2020,69.669
+Karnataka,2021,70.693
+Karnataka,2022,71.731
+Karnataka,2023,72.785
+Karnataka,2024,73.854
+Kerala,2018,34.548
+Kerala,2019,34.713
+Kerala,2020,34.88
+Kerala,2021,35.047
+Kerala,2022,35.215
+Kerala,2023,35.384
+Kerala,2024,35.554
+Madhya Pradesh,2018,82.661
+Madhya Pradesh,2019,84.203
+Madhya Pradesh,2020,85.774
+Madhya Pradesh,2021,87.374
+Madhya Pradesh,2022,89.004
+Madhya Pradesh,2023,90.664
+Madhya Pradesh,2024,92.355
+Maharashtra,2018,124.665
+Maharashtra,2019,126.528
+Maharashtra,2020,128.419
+Maharashtra,2021,130.338
+Maharashtra,2022,132.286
+Maharashtra,2023,134.263
+Maharashtra,2024,136.269
+Manipur,2018,3.334
+Manipur,2019,3.408
+Manipur,2020,3.484
+Manipur,2021,3.561
+Manipur,2022,3.64
+Manipur,2023,3.72
+Manipur,2024,3.803
+Meghalaya,2018,3.529
+Meghalaya,2019,3.617
+Meghalaya,2020,3.708
+Meghalaya,2021,3.8
+Meghalaya,2022,3.895
+Meghalaya,2023,3.992
+Meghalaya,2024,4.092
+Mizoram,2018,1.275
+Mizoram,2019,1.302
+Mizoram,2020,1.33
+Mizoram,2021,1.359
+Mizoram,2022,1.387
+Mizoram,2023,1.417
+Mizoram,2024,1.447
+Nagaland,2018,1.972
+Nagaland,2019,1.97
+Nagaland,2020,1.969
+Nagaland,2021,1.968
+Nagaland,2022,1.967
+Nagaland,2023,1.966
+Nagaland,2024,1.965
+Odisha,2018,46.002
+Odisha,2019,46.608
+Odisha,2020,47.223
+Odisha,2021,47.846
+Odisha,2022,48.477
+Odisha,2023,49.116
+Odisha,2024,49.764
+Punjab,2018,30.386
+Punjab,2019,30.784
+Punjab,2020,31.187
+Punjab,2021,31.596
+Punjab,2022,32.01
+Punjab,2023,32.429
+Punjab,2024,32.854
+Rajasthan,2018,78.516
+Rajasthan,2019,80.054
+Rajasthan,2020,81.621
+Rajasthan,2021,83.22
+Rajasthan,2022,84.849
+Rajasthan,2023,86.511
+Rajasthan,2024,88.205
+Sikkim,2018,0.664
+Sikkim,2019,0.672
+Sikkim,2020,0.68
+Sikkim,2021,0.689
+Sikkim,2022,0.697
+Sikkim,2023,0.706
+Sikkim,2024,0.714
+Tamil Nadu,2018,79.856
+Tamil Nadu,2019,81.022
+Tamil Nadu,2020,82.205
+Tamil Nadu,2021,83.405
+Tamil Nadu,2022,84.623
+Tamil Nadu,2023,85.859
+Tamil Nadu,2024,87.113
+Telangana,2018,37.868
+Telangana,2019,38.265
+Telangana,2020,38.666
+Telangana,2021,39.072
+Telangana,2022,39.482
+Telangana,2023,39.896
+Telangana,2024,40.315
+Tripura,2018,4.042
+Tripura,2019,4.098
+Tripura,2020,4.155
+Tripura,2021,4.213
+Tripura,2022,4.272
+Tripura,2023,4.331
+Tripura,2024,4.391
+Uttar Pradesh,2018,227.274
+Uttar Pradesh,2019,231.495
+Uttar Pradesh,2020,235.793
+Uttar Pradesh,2021,240.172
+Uttar Pradesh,2022,244.631
+Uttar Pradesh,2023,249.174
+Uttar Pradesh,2024,253.801
+Uttarakhand,2018,11.41
+Uttarakhand,2019,11.612
+Uttarakhand,2020,11.818
+Uttarakhand,2021,12.027
+Uttarakhand,2022,12.24
+Uttarakhand,2023,12.457
+Uttarakhand,2024,12.678
+West Bengal,2018,99.925
+West Bengal,2019,101.225
+West Bengal,2020,102.542
+West Bengal,2021,103.877
+West Bengal,2022,105.228
+West Bengal,2023,106.597
+West Bengal,2024,107.984
+Andaman & Nicobar Islands,2018,0.398
+Andaman & Nicobar Islands,2019,0.401
+Andaman & Nicobar Islands,2020,0.404
+Andaman & Nicobar Islands,2021,0.406
+Andaman & Nicobar Islands,2022,0.409
+Andaman & Nicobar Islands,2023,0.412
+Andaman & Nicobar Islands,2024,0.414
+Chandigarh,2018,1.173
+Chandigarh,2019,1.192
+Chandigarh,2020,1.211
+Chandigarh,2021,1.231
+Chandigarh,2022,1.25
+Chandigarh,2023,1.27
+Chandigarh,2024,1.291
+Dadra & Nagar Haveli and Daman & Diu,2018,0.796
+Dadra & Nagar Haveli and Daman & Diu,2019,0.831
+Dadra & Nagar Haveli and Daman & Diu,2020,0.868
+Dadra & Nagar Haveli and Daman & Diu,2021,0.906
+Dadra & Nagar Haveli and Daman & Diu,2022,0.945
+Dadra & Nagar Haveli and Daman & Diu,2023,0.987
+Dadra & Nagar Haveli and Daman & Diu,2024,1.03
+Delhi,2018,19.209
+Delhi,2019,19.582
+Delhi,2020,19.962
+Delhi,2021,20.349
+Delhi,2022,20.745
+Delhi,2023,21.147
+Delhi,2024,21.558
+Lakshadweep,2018,0.063
+Lakshadweep,2019,0.063
+Lakshadweep,2020,0.063
+Lakshadweep,2021,0.064
+Lakshadweep,2022,0.064
+Lakshadweep,2023,0.065
+Lakshadweep,2024,0.065
+Puducherry,2018,1.487
+Puducherry,2019,1.524
+Puducherry,2020,1.562
+Puducherry,2021,1.601
+Puducherry,2022,1.641
+Puducherry,2023,1.683
+Puducherry,2024,1.725
+Ladakh,2018,0.313
+Ladakh,2019,0.32
+Ladakh,2020,0.327
+Ladakh,2021,0.334
+Ladakh,2022,0.341
+Ladakh,2023,0.348
+Ladakh,2024,0.356

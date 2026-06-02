@@ -1,0 +1,88 @@
+state,intervention,allocation_fraction,lives_saved_2025_2030,cost_inr_crore_2025_2030
+Uttar Pradesh,DMHP_universal,1.0,12540,897.12
+Uttar Pradesh,Tele_MANAS_full,1.0,6966,448.56
+Uttar Pradesh,Pesticide_ban,1.0,67923,224.28
+Maharashtra,DMHP_universal,0.0,0,0.0
+Maharashtra,Tele_MANAS_full,0.0,0,0.0
+Maharashtra,Pesticide_ban,1.0,24703,120.87
+Tamil Nadu,DMHP_universal,0.0,0,0.0
+Tamil Nadu,Tele_MANAS_full,0.0,0,0.0
+Tamil Nadu,Pesticide_ban,1.0,22378,77.31
+Madhya Pradesh,DMHP_universal,1.0,1825,326.52
+Madhya Pradesh,Tele_MANAS_full,1.0,1521,163.26
+Madhya Pradesh,Pesticide_ban,1.0,18250,81.63
+Karnataka,DMHP_universal,0.0,0,0.0
+Karnataka,Tele_MANAS_full,0.0,0,0.0
+Karnataka,Pesticide_ban,1.0,13809,65.52
+West Bengal,DMHP_universal,1.0,1613,383.76
+West Bengal,Tele_MANAS_full,0.0,0,0.0
+West Bengal,Pesticide_ban,1.0,13104,95.94
+Telangana,DMHP_universal,1.0,745,143.64
+Telangana,Tele_MANAS_full,0.0,0,0.0
+Telangana,Pesticide_ban,1.0,15837,35.91
+Bihar,DMHP_universal,1.0,2806,490.32
+Bihar,Tele_MANAS_full,1.0,2923,245.16
+Bihar,Pesticide_ban,1.0,8769,122.58
+Gujarat,DMHP_universal,0.0,0,0.0
+Gujarat,Tele_MANAS_full,0.0,0,0.0
+Gujarat,Pesticide_ban,1.0,8115,67.23
+Rajasthan,DMHP_universal,1.0,1315,311.4
+Rajasthan,Tele_MANAS_full,1.0,876,155.7
+Rajasthan,Pesticide_ban,1.0,9202,77.85
+Andhra Pradesh,DMHP_universal,0.543,417,109.95
+Andhra Pradesh,Tele_MANAS_full,0.0,0,0.0
+Andhra Pradesh,Pesticide_ban,1.0,9584,50.58
+Odisha,DMHP_universal,1.0,1016,176.76
+Odisha,Tele_MANAS_full,1.0,847,88.38
+Odisha,Pesticide_ban,1.0,9529,44.19
+Assam,DMHP_universal,1.0,1055,135.36
+Assam,Tele_MANAS_full,1.0,586,67.68
+Assam,Pesticide_ban,1.0,5276,33.84
+Jharkhand,DMHP_universal,1.0,1215,151.2
+Jharkhand,Tele_MANAS_full,1.0,1158,75.6
+Jharkhand,Pesticide_ban,1.0,5643,37.8
+Kerala,DMHP_universal,0.0,0,0.0
+Kerala,Tele_MANAS_full,0.0,0,0.0
+Kerala,Pesticide_ban,1.0,3283,31.86
+Chhattisgarh,DMHP_universal,1.0,773,117.36
+Chhattisgarh,Tele_MANAS_full,1.0,515,58.68
+Chhattisgarh,Pesticide_ban,1.0,6570,29.34
+Uttarakhand,DMHP_universal,1.0,493,45.0
+Uttarakhand,Tele_MANAS_full,1.0,411,22.5
+Uttarakhand,Pesticide_ban,1.0,3697,11.25
+Haryana,DMHP_universal,0.0,0,0.0
+Haryana,Tele_MANAS_full,0.0,0,0.0
+Haryana,Pesticide_ban,1.0,3211,28.35
+Punjab,DMHP_universal,0.0,0,0.0
+Punjab,Tele_MANAS_full,0.0,0,0.0
+Punjab,Pesticide_ban,1.0,3527,29.16
+Himachal Pradesh,DMHP_universal,0.0,0,0.0
+Himachal Pradesh,Tele_MANAS_full,0.0,0,0.0
+Himachal Pradesh,Pesticide_ban,1.0,755,7.11
+Jammu & Kashmir,DMHP_universal,0.0,0,0.0
+Jammu & Kashmir,Tele_MANAS_full,1.0,119,28.44
+Jammu & Kashmir,Pesticide_ban,1.0,356,14.22
+Tripura,DMHP_universal,1.0,163,15.48
+Tripura,Tele_MANAS_full,1.0,116,7.74
+Tripura,Pesticide_ban,1.0,349,3.87
+Goa,DMHP_universal,0.0,0,0.0
+Goa,Tele_MANAS_full,0.0,0,0.0
+Goa,Pesticide_ban,1.0,75,1.44
+Mizoram,DMHP_universal,1.0,48,5.04
+Mizoram,Tele_MANAS_full,1.0,46,2.52
+Mizoram,Pesticide_ban,1.0,68,1.26
+Arunachal Pradesh,DMHP_universal,1.0,49,6.48
+Arunachal Pradesh,Tele_MANAS_full,1.0,41,3.24
+Arunachal Pradesh,Pesticide_ban,1.0,93,1.62
+Manipur,DMHP_universal,0.0,0,0.0
+Manipur,Tele_MANAS_full,1.0,36,6.66
+Manipur,Pesticide_ban,1.0,43,3.33
+Meghalaya,DMHP_universal,0.0,0,0.0
+Meghalaya,Tele_MANAS_full,0.0,0,0.0
+Meghalaya,Pesticide_ban,1.0,52,3.6
+Sikkim,DMHP_universal,1.0,13,2.52
+Sikkim,Tele_MANAS_full,0.0,0,0.0
+Sikkim,Pesticide_ban,1.0,33,0.63
+Nagaland,DMHP_universal,0.0,0,0.0
+Nagaland,Tele_MANAS_full,1.0,14,3.6
+Nagaland,Pesticide_ban,1.0,21,1.8

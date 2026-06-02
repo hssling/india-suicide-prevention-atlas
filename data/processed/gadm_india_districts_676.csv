@@ -1,0 +1,677 @@
+gid_2,state,district,engtype
+IND.1.1_1,Andaman and Nicobar,Nicobar Islands,District
+IND.1.2_1,Andaman and Nicobar,North and Middle Andaman,District
+IND.1.3_1,Andaman and Nicobar,South Andaman,District
+IND.2.1_1,Andhra Pradesh,Anantapur,District
+IND.2.2_1,Andhra Pradesh,Chittoor,District
+IND.2.3_1,Andhra Pradesh,East Godavari,District
+IND.2.4_1,Andhra Pradesh,Guntur,District
+IND.2.5_1,Andhra Pradesh,Krishna,District
+IND.2.6_1,Andhra Pradesh,Kurnool,District
+IND.2.7_1,Andhra Pradesh,Nellore,District
+IND.2.8_1,Andhra Pradesh,Prakasam,District
+IND.2.9_1,Andhra Pradesh,Srikakulam,District
+IND.2.10_1,Andhra Pradesh,Visakhapatnam,District
+IND.2.11_1,Andhra Pradesh,Vizianagaram,District
+IND.2.12_1,Andhra Pradesh,West Godavari,District
+IND.2.13_1,Andhra Pradesh,Y.S.R.,District
+IND.3.1_1,Arunachal Pradesh,Anjaw,District
+Z07.3.1_1,Arunachal Pradesh,Anjaw,District
+IND.3.2_1,Arunachal Pradesh,Changlang,District
+Z07.3.3_1,Arunachal Pradesh,Dibang Valley,District
+Z07.3.4_1,Arunachal Pradesh,East Kameng,District
+IND.3.5_1,Arunachal Pradesh,East Siang,District
+Z07.3.5_1,Arunachal Pradesh,East Siang,District
+Z07.3.6_1,Arunachal Pradesh,Kurung Kumey,District
+IND.3.7_1,Arunachal Pradesh,Lohit,District
+Z07.3.7_1,Arunachal Pradesh,Lohit,District
+IND.3.8_1,Arunachal Pradesh,Longding,District
+IND.3.9_1,Arunachal Pradesh,Lower Dibang Valley,District
+Z07.3.9_1,Arunachal Pradesh,Lower Dibang Valley,District
+Z07.3.10_1,Arunachal Pradesh,Lower Subansiri,District
+IND.3.11_1,Arunachal Pradesh,Namsai,District
+Z07.3.12_1,Arunachal Pradesh,Papum Pare,District
+Z07.3.13_1,Arunachal Pradesh,Tawang,District
+IND.3.14_1,Arunachal Pradesh,Tirap,District
+Z07.3.15_1,Arunachal Pradesh,Upper Siang,District
+Z07.3.16_1,Arunachal Pradesh,Upper Subansiri,District
+Z07.3.17_1,Arunachal Pradesh,West Kameng,District
+Z07.3.18_1,Arunachal Pradesh,West Siang,District
+IND.4.1_1,Assam,Baksa,District
+IND.4.2_1,Assam,Barpeta,District
+IND.4.3_1,Assam,Bongaigaon,District
+IND.4.4_1,Assam,Cachar,District
+IND.4.5_1,Assam,Chirang,District
+IND.4.6_1,Assam,Darrang,District
+IND.4.7_1,Assam,Dhemaji,District
+IND.4.8_1,Assam,Dhubri,District
+IND.4.9_1,Assam,Dibrugarh,District
+IND.4.10_1,Assam,Dima Hasao,District
+IND.4.11_1,Assam,Goalpara,District
+IND.4.12_1,Assam,Golaghat,District
+IND.4.13_1,Assam,Hailakandi,District
+IND.4.14_1,Assam,Jorhat,District
+IND.4.16_1,Assam,Kamrup,District
+IND.4.15_1,Assam,Kamrup Metropolitan,District
+IND.4.17_1,Assam,Karbi Anglong,District
+IND.4.18_1,Assam,Karimganj,District
+IND.4.19_1,Assam,Kokrajhar,District
+IND.4.20_1,Assam,Lakhimpur,District
+IND.4.21_1,Assam,Morigaon,District
+IND.4.22_1,Assam,Nagaon,District
+IND.4.23_1,Assam,Nalbari,District
+IND.4.24_1,Assam,Sivasagar,District
+IND.4.25_1,Assam,Sonitpur,District
+IND.4.26_1,Assam,Tinsukia,District
+IND.4.27_1,Assam,Udalguri,District
+IND.5.1_1,Bihar,Araria,District
+IND.5.2_1,Bihar,Arwal,District
+IND.5.3_1,Bihar,Aurangabad,District
+IND.5.4_1,Bihar,Banka,District
+IND.5.5_1,Bihar,Begusarai,District
+IND.5.6_1,Bihar,Bhagalpur,District
+IND.5.7_1,Bihar,Bhojpur,District
+IND.5.8_1,Bihar,Buxar,District
+IND.5.9_1,Bihar,Darbhanga,District
+IND.5.10_1,Bihar,Gaya,District
+IND.5.11_1,Bihar,Gopalganj,District
+IND.5.12_1,Bihar,Jamui,District
+IND.5.13_1,Bihar,Jehanabad,District
+IND.5.14_1,Bihar,Kaimur,District
+IND.5.15_1,Bihar,Katihar,District
+IND.5.16_1,Bihar,Khagaria,District
+IND.5.17_1,Bihar,Kishanganj,District
+IND.5.18_1,Bihar,Lakhisarai,District
+IND.5.19_1,Bihar,Madhepura,District
+IND.5.20_1,Bihar,Madhubani,District
+IND.5.21_1,Bihar,Munger,District
+IND.5.22_1,Bihar,Muzaffarpur,District
+IND.5.23_1,Bihar,Nalanda,District
+IND.5.24_1,Bihar,Nawada,District
+IND.5.25_1,Bihar,Pashchim Champaran,District
+IND.5.26_1,Bihar,Patna,District
+IND.5.27_1,Bihar,Purba Champaran,District
+IND.5.28_1,Bihar,Purnia,District
+IND.5.29_1,Bihar,Rohtas,District
+IND.5.30_1,Bihar,Saharsa,District
+IND.5.31_1,Bihar,Samastipur,District
+IND.5.32_1,Bihar,Saran,District
+IND.5.33_1,Bihar,Sheikhpura,District
+IND.5.34_1,Bihar,Sheohar,District
+IND.5.35_1,Bihar,Sitamarhi,District
+IND.5.36_1,Bihar,Siwan,District
+IND.5.37_1,Bihar,Supaul,District
+IND.5.38_1,Bihar,Vaishali,District
+IND.6.1_1,Chandigarh,Chandigarh,District
+IND.7.2_1,Chhattisgarh,Balod,District
+IND.7.1_1,Chhattisgarh,Baloda Bazar,District
+IND.7.3_1,Chhattisgarh,Balrampur,District
+IND.7.4_1,Chhattisgarh,Bastar,District
+IND.7.5_1,Chhattisgarh,Bemetara,District
+IND.7.6_1,Chhattisgarh,Bijapur,District
+IND.7.7_1,Chhattisgarh,Bilaspur,District
+IND.7.8_1,Chhattisgarh,Dantewada,District
+IND.7.9_1,Chhattisgarh,Dhamtari,District
+IND.7.10_1,Chhattisgarh,Durg,District
+IND.7.11_1,Chhattisgarh,Gariaband,District
+IND.7.12_1,Chhattisgarh,Janjgir-Champa,District
+IND.7.13_1,Chhattisgarh,Jashpur,District
+IND.7.14_1,Chhattisgarh,Kabeerdham,District
+IND.7.15_1,Chhattisgarh,Kondagaon,District
+IND.7.16_1,Chhattisgarh,Korba,District
+IND.7.17_1,Chhattisgarh,Koriya,District
+IND.7.18_1,Chhattisgarh,Mahasamund,District
+IND.7.19_1,Chhattisgarh,Mungeli,District
+IND.7.20_1,Chhattisgarh,Narayanpur,District
+IND.7.21_1,Chhattisgarh,Raigarh,District
+IND.7.22_1,Chhattisgarh,Raipur,District
+IND.7.23_1,Chhattisgarh,Rajnandgaon,District
+IND.7.24_1,Chhattisgarh,Sukma,District
+IND.7.25_1,Chhattisgarh,Surajpur,District
+IND.7.26_1,Chhattisgarh,Surguja,District
+IND.7.27_1,Chhattisgarh,Uttar Bastar Kanker,District
+IND.8.1_1,Dadra and Nagar Haveli,Dadra and Nagar Haveli,District
+IND.9.1_1,Daman and Diu,Daman,District
+IND.9.2_1,Daman and Diu,Diu,District
+IND.10.1_1,Goa,North Goa,District
+IND.10.2_1,Goa,South Goa,District
+IND.11.1_1,Gujarat,Ahmadabad,District
+IND.11.2_1,Gujarat,Amreli,District
+IND.11.3_1,Gujarat,Anand,District
+IND.11.4_1,Gujarat,Aravalli,District
+IND.11.5_1,Gujarat,Banas Kantha,District
+IND.11.6_1,Gujarat,Bharuch,District
+IND.11.7_1,Gujarat,Bhavnagar,District
+IND.11.8_1,Gujarat,Botad,District
+IND.11.9_1,Gujarat,Chhota Udaipur,District
+IND.11.10_1,Gujarat,Dahod,District
+IND.11.11_1,Gujarat,Devbhumi Dwarka,District
+IND.11.12_1,Gujarat,Gandhinagar,District
+IND.11.13_1,Gujarat,Gir Somnath,District
+IND.11.14_1,Gujarat,Jamnagar,District
+IND.11.15_1,Gujarat,Junagadh,District
+IND.11.16_1,Gujarat,Kachchh,District
+IND.11.17_1,Gujarat,Kheda,District
+IND.11.18_1,Gujarat,Mahesana,District
+IND.11.19_1,Gujarat,Mahisagar,District
+IND.11.20_1,Gujarat,Morbi,District
+IND.11.21_1,Gujarat,Narmada,District
+IND.11.22_1,Gujarat,Navsari,District
+IND.11.23_1,Gujarat,Panch Mahals,District
+IND.11.24_1,Gujarat,Patan,District
+IND.11.25_1,Gujarat,Porbandar,District
+IND.11.26_1,Gujarat,Rajkot,District
+IND.11.27_1,Gujarat,Sabar Kantha,District
+IND.11.28_1,Gujarat,Surat,District
+IND.11.29_1,Gujarat,Surendranagar,District
+IND.11.30_1,Gujarat,Tapi,District
+IND.11.31_1,Gujarat,The Dangs,District
+IND.11.32_1,Gujarat,Vadodara,District
+IND.11.33_1,Gujarat,Valsad,District
+IND.12.1_1,Haryana,Ambala,District
+IND.12.2_1,Haryana,Bhiwani,District
+IND.12.3_1,Haryana,Faridabad,District
+IND.12.4_1,Haryana,Fatehabad,District
+IND.12.5_1,Haryana,Gurgaon,District
+IND.12.6_1,Haryana,Hisar,District
+IND.12.7_1,Haryana,Jhajjar,District
+IND.12.8_1,Haryana,Jind,District
+IND.12.9_1,Haryana,Kaithal,District
+IND.12.10_1,Haryana,Karnal,District
+IND.12.11_1,Haryana,Kurukshetra,District
+IND.12.12_1,Haryana,Mahendragarh,District
+IND.12.13_1,Haryana,Mewat,District
+IND.12.14_1,Haryana,Palwal,District
+IND.12.15_1,Haryana,Panchkula,District
+IND.12.16_1,Haryana,Panipat,District
+IND.12.17_1,Haryana,Rewari,District
+IND.12.18_1,Haryana,Rohtak,District
+IND.12.19_1,Haryana,Sirsa,District
+IND.12.20_1,Haryana,Sonipat,District
+IND.12.21_1,Haryana,Yamunanagar,District
+IND.13.1_1,Himachal Pradesh,Bilaspur,District
+IND.13.2_1,Himachal Pradesh,Chamba,District
+IND.13.3_1,Himachal Pradesh,Hamirpur,District
+IND.13.4_1,Himachal Pradesh,Kangra,District
+IND.13.5_1,Himachal Pradesh,Kinnaur,District
+Z04.13.5_1,Himachal Pradesh,Kinnaur,District
+Z09.13.5_1,Himachal Pradesh,Kinnaur,District
+IND.13.6_1,Himachal Pradesh,Kullu,District
+IND.13.7_1,Himachal Pradesh,Lahul & Spiti,District
+Z04.13.7_1,Himachal Pradesh,Lahul & Spiti,District
+IND.13.8_1,Himachal Pradesh,Mandi,District
+IND.13.9_1,Himachal Pradesh,Shimla,District
+IND.13.10_1,Himachal Pradesh,Sirmaur,District
+IND.13.11_1,Himachal Pradesh,Solan,District
+IND.13.12_1,Himachal Pradesh,Una,District
+Z01.14.1_1,Jammu and Kashmir,Anantnag,District
+Z01.14.2_1,Jammu and Kashmir,Badgam,District
+Z01.14.3_1,Jammu and Kashmir,Bandipore,District
+Z01.14.4_1,Jammu and Kashmir,Baramulla,District
+Z01.14.5_1,Jammu and Kashmir,Doda,District
+Z01.14.6_1,Jammu and Kashmir,Ganderbal,District
+Z01.14.7_1,Jammu and Kashmir,Jammu,District
+Z01.14.8_1,Jammu and Kashmir,Kargil,District
+Z01.14.9_1,Jammu and Kashmir,Kathua,District
+Z01.14.10_1,Jammu and Kashmir,Kishtwar,District
+Z01.14.11_1,Jammu and Kashmir,Kulgam,District
+Z01.14.12_1,Jammu and Kashmir,Kupwara,District
+Z01.14.13_1,Jammu and Kashmir,Leh (Ladakh),District
+Z01.14.14_1,Jammu and Kashmir,Poonch,District
+Z01.14.15_1,Jammu and Kashmir,Pulwama,District
+Z01.14.16_1,Jammu and Kashmir,Rajouri,District
+Z01.14.17_1,Jammu and Kashmir,Ramban,District
+Z01.14.18_1,Jammu and Kashmir,Reasi,District
+Z01.14.19_1,Jammu and Kashmir,Samba,District
+Z01.14.20_1,Jammu and Kashmir,Shupiyan,District
+Z01.14.21_1,Jammu and Kashmir,Srinagar,District
+Z01.14.22_1,Jammu and Kashmir,Udhampur,District
+IND.15.1_1,Jharkhand,Bokaro,District
+IND.15.2_1,Jharkhand,Chatra,District
+IND.15.3_1,Jharkhand,Deoghar,District
+IND.15.4_1,Jharkhand,Dhanbad,District
+IND.15.5_1,Jharkhand,Dumka,District
+IND.15.6_1,Jharkhand,Garhwa,District
+IND.15.7_1,Jharkhand,Giridih,District
+IND.15.8_1,Jharkhand,Godda,District
+IND.15.9_1,Jharkhand,Gumla,District
+IND.15.10_1,Jharkhand,Hazaribagh,District
+IND.15.11_1,Jharkhand,Jamtara,District
+IND.15.12_1,Jharkhand,Khunti,District
+IND.15.13_1,Jharkhand,Kodarma,District
+IND.15.14_1,Jharkhand,Latehar,District
+IND.15.15_1,Jharkhand,Lohardaga,District
+IND.15.16_1,Jharkhand,Pakur,District
+IND.15.17_1,Jharkhand,Palamu,District
+IND.15.18_1,Jharkhand,Pashchimi Singhbhum,District
+IND.15.19_1,Jharkhand,Purbi Singhbhum,District
+IND.15.20_1,Jharkhand,Ramgarh,District
+IND.15.21_1,Jharkhand,Ranchi,District
+IND.15.22_1,Jharkhand,Sahibganj,District
+IND.15.23_1,Jharkhand,Saraikela-kharsawan,District
+IND.15.24_1,Jharkhand,Simdega,District
+IND.16.1_1,Karnataka,Bagalkot,District
+IND.16.3_1,Karnataka,Bangalore,District
+IND.16.2_1,Karnataka,Bangalore Rural,District
+IND.16.4_1,Karnataka,Belgaum,District
+IND.16.5_1,Karnataka,Bellary,District
+IND.16.6_1,Karnataka,Bidar,District
+IND.16.7_1,Karnataka,Bijapur,District
+IND.16.8_1,Karnataka,Chamrajnagar,District
+IND.16.9_1,Karnataka,Chikballapura,District
+IND.16.10_1,Karnataka,Chikmagalur,District
+IND.16.11_1,Karnataka,Chitradurga,District
+IND.16.12_1,Karnataka,Dakshina Kannada,District
+IND.16.13_1,Karnataka,Davanagere,District
+IND.16.14_1,Karnataka,Dharwad,District
+IND.16.15_1,Karnataka,Gadag,District
+IND.16.16_1,Karnataka,Gulbarga,District
+IND.16.17_1,Karnataka,Hassan,District
+IND.16.18_1,Karnataka,Haveri,District
+IND.16.19_1,Karnataka,Kodagu,District
+IND.16.20_1,Karnataka,Kolar,District
+IND.16.21_1,Karnataka,Koppal,District
+IND.16.22_1,Karnataka,Mandya,District
+IND.16.23_1,Karnataka,Mysore,District
+IND.16.24_1,Karnataka,Raichur,District
+IND.16.25_1,Karnataka,Ramanagara,District
+IND.16.26_1,Karnataka,Shimoga,District
+IND.16.27_1,Karnataka,Tumkur,District
+IND.16.28_1,Karnataka,Udupi,District
+IND.16.29_1,Karnataka,Uttara Kannada,District
+IND.16.30_1,Karnataka,Yadgir,District
+IND.17.1_1,Kerala,Alappuzha,District
+IND.17.2_1,Kerala,Ernakulam,District
+IND.17.3_1,Kerala,Idukki,District
+IND.17.4_1,Kerala,Kannur,District
+IND.17.5_1,Kerala,Kasaragod,District
+IND.17.6_1,Kerala,Kollam,District
+IND.17.7_1,Kerala,Kottayam,District
+IND.17.8_1,Kerala,Kozhikode,District
+IND.17.9_1,Kerala,Malappuram,District
+IND.17.10_1,Kerala,Palakkad,District
+IND.17.11_1,Kerala,Pathanamthitta,District
+IND.17.12_1,Kerala,Thiruvananthapuram,District
+IND.17.13_1,Kerala,Thrissur,District
+IND.17.14_1,Kerala,Wayanad,District
+IND.18.1_1,Lakshadweep,Lakshadweep,District
+IND.19.1_1,Madhya Pradesh,Agar Malwa,District
+IND.19.2_1,Madhya Pradesh,Alirajpur,District
+IND.19.3_1,Madhya Pradesh,Anuppur,District
+IND.19.4_1,Madhya Pradesh,Ashoknagar,District
+IND.19.5_1,Madhya Pradesh,Balaghat,District
+IND.19.6_1,Madhya Pradesh,Barwani,District
+IND.19.7_1,Madhya Pradesh,Betul,District
+IND.19.8_1,Madhya Pradesh,Bhind,District
+IND.19.9_1,Madhya Pradesh,Bhopal,District
+IND.19.10_1,Madhya Pradesh,Burhanpur,District
+IND.19.11_1,Madhya Pradesh,Chhatarpur,District
+IND.19.12_1,Madhya Pradesh,Chhindwara,District
+IND.19.13_1,Madhya Pradesh,Damoh,District
+IND.19.14_1,Madhya Pradesh,Datia,District
+IND.19.15_1,Madhya Pradesh,Dewas,District
+IND.19.16_1,Madhya Pradesh,Dhar,District
+IND.19.17_1,Madhya Pradesh,Dindori,District
+IND.19.18_1,Madhya Pradesh,East Nimar,District
+IND.19.19_1,Madhya Pradesh,Guna,District
+IND.19.20_1,Madhya Pradesh,Gwalior,District
+IND.19.21_1,Madhya Pradesh,Harda,District
+IND.19.22_1,Madhya Pradesh,Hoshangabad,District
+IND.19.23_1,Madhya Pradesh,Indore,District
+IND.19.24_1,Madhya Pradesh,Jabalpur,District
+IND.19.25_1,Madhya Pradesh,Jhabua,District
+IND.19.26_1,Madhya Pradesh,Katni,District
+IND.19.27_1,Madhya Pradesh,Mandla,District
+IND.19.28_1,Madhya Pradesh,Mandsaur,District
+IND.19.29_1,Madhya Pradesh,Morena,District
+IND.19.30_1,Madhya Pradesh,Narsimhapur,District
+IND.19.31_1,Madhya Pradesh,Neemuch,District
+IND.19.32_1,Madhya Pradesh,Panna,District
+IND.19.33_1,Madhya Pradesh,Raisen,District
+IND.19.34_1,Madhya Pradesh,Rajgarh,District
+IND.19.35_1,Madhya Pradesh,Ratlam,District
+IND.19.36_1,Madhya Pradesh,Rewa,District
+IND.19.37_1,Madhya Pradesh,Sagar,District
+IND.19.38_1,Madhya Pradesh,Satna,District
+IND.19.39_1,Madhya Pradesh,Sehore,District
+IND.19.40_1,Madhya Pradesh,Seoni,District
+IND.19.41_1,Madhya Pradesh,Shahdol,District
+IND.19.42_1,Madhya Pradesh,Shajapur,District
+IND.19.43_1,Madhya Pradesh,Sheopur,District
+IND.19.44_1,Madhya Pradesh,Shivpuri,District
+IND.19.45_1,Madhya Pradesh,Sidhi,District
+IND.19.46_1,Madhya Pradesh,Singrauli,District
+IND.19.47_1,Madhya Pradesh,Tikamgarh,District
+IND.19.48_1,Madhya Pradesh,Ujjain,District
+IND.19.49_1,Madhya Pradesh,Umaria,District
+IND.19.50_1,Madhya Pradesh,Vidisha,District
+IND.19.51_1,Madhya Pradesh,West Nimar,District
+IND.20.1_1,Maharashtra,Ahmadnagar,District
+IND.20.2_1,Maharashtra,Akola,District
+IND.20.3_1,Maharashtra,Amravati,District
+IND.20.4_1,Maharashtra,Aurangabad,District
+IND.20.5_1,Maharashtra,Bhandara,District
+IND.20.6_1,Maharashtra,Bid,District
+IND.20.7_1,Maharashtra,Buldana,District
+IND.20.8_1,Maharashtra,Chandrapur,District
+IND.20.9_1,Maharashtra,Dhule,District
+IND.20.10_1,Maharashtra,Garhchiroli,District
+IND.20.11_1,Maharashtra,Gondiya,District
+IND.20.12_1,Maharashtra,Hingoli,District
+IND.20.13_1,Maharashtra,Jalgaon,District
+IND.20.14_1,Maharashtra,Jalna,District
+IND.20.15_1,Maharashtra,Kolhapur,District
+IND.20.16_1,Maharashtra,Latur,District
+IND.20.17_1,Maharashtra,Mumbai City,District
+IND.20.18_1,Maharashtra,Mumbai Suburban,District
+IND.20.19_1,Maharashtra,Nagpur,District
+IND.20.20_1,Maharashtra,Nanded,District
+IND.20.21_1,Maharashtra,Nandurbar,District
+IND.20.22_1,Maharashtra,Nashik,District
+IND.20.23_1,Maharashtra,Osmanabad,District
+IND.20.24_1,Maharashtra,Palghar,District
+IND.20.25_1,Maharashtra,Parbhani,District
+IND.20.26_1,Maharashtra,Pune,District
+IND.20.27_1,Maharashtra,Raigarh,District
+IND.20.28_1,Maharashtra,Ratnagiri,District
+IND.20.29_1,Maharashtra,Sangli,District
+IND.20.30_1,Maharashtra,Satara,District
+IND.20.31_1,Maharashtra,Sindhudurg,District
+IND.20.32_1,Maharashtra,Solapur,District
+IND.20.33_1,Maharashtra,Thane,District
+IND.20.34_1,Maharashtra,Wardha,District
+IND.20.35_1,Maharashtra,Washim,District
+IND.20.36_1,Maharashtra,Yavatmal,District
+IND.21.1_1,Manipur,Bishnupur,District
+IND.21.2_1,Manipur,Chandel,District
+IND.21.3_1,Manipur,Churachandpur,District
+IND.21.4_1,Manipur,Imphal East,District
+IND.21.5_1,Manipur,Imphal West,District
+IND.21.6_1,Manipur,Senapati,District
+IND.21.7_1,Manipur,Tamenglong,District
+IND.21.8_1,Manipur,Thoubal,District
+IND.21.9_1,Manipur,Ukhrul,District
+IND.22.1_1,Meghalaya,East Garo Hills,District
+IND.22.2_1,Meghalaya,East Khasi Hills,District
+IND.22.3_1,Meghalaya,Jaintia Hills,District
+IND.22.4_1,Meghalaya,North Garo Hills,District
+IND.22.5_1,Meghalaya,Ri Bhoi,District
+IND.22.6_1,Meghalaya,South Garo Hills,District
+IND.22.7_1,Meghalaya,South West Garo Hills,District
+IND.22.8_1,Meghalaya,South West Khasi Hills,District
+IND.22.9_1,Meghalaya,West Garo Hills,District
+IND.22.10_1,Meghalaya,West Khasi Hills,District
+IND.23.1_1,Mizoram,Aizawl,District
+IND.23.2_1,Mizoram,Champhai,District
+IND.23.3_1,Mizoram,Kolasib,District
+IND.23.4_1,Mizoram,Lawangtlai,District
+IND.23.5_1,Mizoram,Lunglei,District
+IND.23.6_1,Mizoram,Mamit,District
+IND.23.7_1,Mizoram,Saiha,District
+IND.23.8_1,Mizoram,Serchhip,District
+IND.25.1_1,NCT of Delhi,West,District
+IND.24.1_1,Nagaland,Dimapur,District
+IND.24.2_1,Nagaland,Kiphire,District
+IND.24.3_1,Nagaland,Kohima,District
+IND.24.4_1,Nagaland,Longleng,District
+IND.24.5_1,Nagaland,Mokokchung,District
+IND.24.6_1,Nagaland,Mon,District
+IND.24.7_1,Nagaland,Peren,District
+IND.24.8_1,Nagaland,Phek,District
+IND.24.9_1,Nagaland,Tuensang,District
+IND.24.10_1,Nagaland,Wokha,District
+IND.24.11_1,Nagaland,Zunheboto,District
+IND.26.1_1,Odisha,Anugul,District
+IND.26.2_1,Odisha,Balangir,District
+IND.26.3_1,Odisha,Baleshwar,District
+IND.26.4_1,Odisha,Bargarh,District
+IND.26.5_1,Odisha,Bauda,District
+IND.26.6_1,Odisha,Bhadrak,District
+IND.26.7_1,Odisha,Cuttack,District
+IND.26.8_1,Odisha,Debagarh,District
+IND.26.9_1,Odisha,Dhenkanal,District
+IND.26.10_1,Odisha,Gajapati,District
+IND.26.11_1,Odisha,Ganjam,District
+IND.26.12_1,Odisha,Jagatsinghapur,District
+IND.26.13_1,Odisha,Jajapur,District
+IND.26.14_1,Odisha,Jharsuguda,District
+IND.26.15_1,Odisha,Kalahandi,District
+IND.26.16_1,Odisha,Kandhamal,District
+IND.26.17_1,Odisha,Kendrapara,District
+IND.26.18_1,Odisha,Kendujhar,District
+IND.26.19_1,Odisha,Khordha,District
+IND.26.20_1,Odisha,Koraput,District
+IND.26.21_1,Odisha,Malkangiri,District
+IND.26.22_1,Odisha,Mayurbhanj,District
+IND.26.23_1,Odisha,Nabarangapur,District
+IND.26.24_1,Odisha,Nayagarh,District
+IND.26.25_1,Odisha,Nuapada,District
+IND.26.26_1,Odisha,Puri,District
+IND.26.27_1,Odisha,Rayagada,District
+IND.26.28_1,Odisha,Sambalpur,District
+IND.26.29_1,Odisha,Subarnapur,District
+IND.26.30_1,Odisha,Sundargarh,District
+IND.27.1_1,Puducherry,Karaikal,District
+IND.27.2_1,Puducherry,Mahe,District
+IND.27.3_1,Puducherry,Puducherry,District
+IND.27.4_1,Puducherry,Yanam,District
+IND.28.1_1,Punjab,Amritsar,District
+IND.28.2_1,Punjab,Barnala,District
+IND.28.3_1,Punjab,Bathinda,District
+IND.28.4_1,Punjab,Faridkot,District
+IND.28.5_1,Punjab,Fatehgarh Sahib,District
+IND.28.6_1,Punjab,Fazilka,District
+IND.28.7_1,Punjab,Firozpur,District
+IND.28.8_1,Punjab,Gurdaspur,District
+IND.28.9_1,Punjab,Hoshiarpur,District
+IND.28.10_1,Punjab,Jalandhar,District
+IND.28.11_1,Punjab,Kapurthala,District
+IND.28.12_1,Punjab,Ludhiana,District
+IND.28.13_1,Punjab,Mansa,District
+IND.28.14_1,Punjab,Moga,District
+IND.28.15_1,Punjab,Muktsar,District
+IND.28.16_1,Punjab,Pathankot,District
+IND.28.17_1,Punjab,Patiala,District
+IND.28.18_1,Punjab,Rupnagar,District
+IND.28.19_1,Punjab,Sahibzada Ajit Singh Nagar,District
+IND.28.20_1,Punjab,Sangrur,District
+IND.28.21_1,Punjab,Shahid Bhagat Singh Nagar,District
+IND.28.22_1,Punjab,Tarn Taran,District
+IND.29.1_1,Rajasthan,Ajmer,District
+IND.29.2_1,Rajasthan,Alwar,District
+IND.29.3_1,Rajasthan,Banswara,District
+IND.29.4_1,Rajasthan,Baran,District
+IND.29.5_1,Rajasthan,Barmer,District
+IND.29.6_1,Rajasthan,Bharatpur,District
+IND.29.7_1,Rajasthan,Bhilwara,District
+IND.29.8_1,Rajasthan,Bikaner,District
+IND.29.9_1,Rajasthan,Bundi,District
+IND.29.10_1,Rajasthan,Chittaurgarh,District
+IND.29.11_1,Rajasthan,Churu,District
+IND.29.12_1,Rajasthan,Dausa,District
+IND.29.13_1,Rajasthan,Dhaulpur,District
+IND.29.14_1,Rajasthan,Dungarpur,District
+IND.29.15_1,Rajasthan,Ganganagar,District
+IND.29.16_1,Rajasthan,Hanumangarh,District
+IND.29.17_1,Rajasthan,Jaipur,District
+IND.29.18_1,Rajasthan,Jaisalmer,District
+IND.29.19_1,Rajasthan,Jalor,District
+IND.29.20_1,Rajasthan,Jhalawar,District
+IND.29.21_1,Rajasthan,Jhunjhunun,District
+IND.29.22_1,Rajasthan,Jodhpur,District
+IND.29.23_1,Rajasthan,Karauli,District
+IND.29.24_1,Rajasthan,Kota,District
+IND.29.25_1,Rajasthan,Nagaur,District
+IND.29.26_1,Rajasthan,Pali,District
+IND.29.27_1,Rajasthan,Pratapgarh,District
+IND.29.28_1,Rajasthan,Rajsamand,District
+IND.29.29_1,Rajasthan,Sawai Madhopur,District
+IND.29.30_1,Rajasthan,Sikar,District
+IND.29.31_1,Rajasthan,Sirohi,District
+IND.29.32_1,Rajasthan,Tonk,District
+IND.29.33_1,Rajasthan,Udaipur,District
+IND.30.1_1,Sikkim,East Sikkim,District
+IND.30.2_1,Sikkim,North Sikkim,District
+IND.30.3_1,Sikkim,South Sikkim,District
+IND.30.4_1,Sikkim,West Sikkim,District
+IND.31.1_1,Tamil Nadu,Ariyalur,District
+IND.31.2_1,Tamil Nadu,Chennai,District
+IND.31.3_1,Tamil Nadu,Coimbatore,District
+IND.31.4_1,Tamil Nadu,Cuddalore,District
+IND.31.5_1,Tamil Nadu,Dharmapuri,District
+IND.31.6_1,Tamil Nadu,Dindigul,District
+IND.31.7_1,Tamil Nadu,Erode,District
+IND.31.8_1,Tamil Nadu,Kancheepuram,District
+IND.31.9_1,Tamil Nadu,Kanniyakumari,District
+IND.31.10_1,Tamil Nadu,Karur,District
+IND.31.11_1,Tamil Nadu,Krishnagiri,District
+IND.31.12_1,Tamil Nadu,Madurai,District
+IND.31.13_1,Tamil Nadu,Nagappattinam,District
+IND.31.14_1,Tamil Nadu,Namakkal,District
+IND.31.15_1,Tamil Nadu,Perambalur,District
+IND.31.16_1,Tamil Nadu,Pudukkottai,District
+IND.31.17_1,Tamil Nadu,Ramanathapuram,District
+IND.31.18_1,Tamil Nadu,Salem,District
+IND.31.19_1,Tamil Nadu,Sivaganga,District
+IND.31.20_1,Tamil Nadu,Thanjavur,District
+IND.31.21_1,Tamil Nadu,The Nilgiris,District
+IND.31.22_1,Tamil Nadu,Theni,District
+IND.31.23_1,Tamil Nadu,Thiruvallur,District
+IND.31.24_1,Tamil Nadu,Thiruvarur,District
+IND.31.25_1,Tamil Nadu,Thoothukkudi,District
+IND.31.26_1,Tamil Nadu,Tiruchirappalli,District
+IND.31.27_1,Tamil Nadu,Tirunelveli,District
+IND.31.28_1,Tamil Nadu,Tiruppur,District
+IND.31.29_1,Tamil Nadu,Tiruvannamalai,District
+IND.31.30_1,Tamil Nadu,Vellore,District
+IND.31.31_1,Tamil Nadu,Viluppuram,District
+IND.31.32_1,Tamil Nadu,Virudunagar,District
+IND.32.1_1,Telangana,Adilabad,District
+IND.32.2_1,Telangana,Hyderabad,District
+IND.32.3_1,Telangana,Karimnagar,District
+IND.32.4_1,Telangana,Khammam,District
+IND.32.5_1,Telangana,Mahbubnagar,District
+IND.32.6_1,Telangana,Medak,District
+IND.32.7_1,Telangana,Nalgonda,District
+IND.32.8_1,Telangana,Nizamabad,District
+IND.32.9_1,Telangana,Ranga Reddy,District
+IND.32.10_1,Telangana,Warangal,District
+IND.33.1_1,Tripura,Dhalai,District
+IND.33.2_1,Tripura,Gomati,District
+IND.33.3_1,Tripura,Khowai,District
+IND.33.4_1,Tripura,North Tripura,District
+IND.33.5_1,Tripura,Sipahijala,District
+IND.33.6_1,Tripura,South Tripura,District
+IND.33.7_1,Tripura,Unokoti,District
+IND.33.8_1,Tripura,West Tripura,District
+IND.34.1_1,Uttar Pradesh,Agra,District
+IND.34.2_1,Uttar Pradesh,Aligarh,District
+IND.34.3_1,Uttar Pradesh,Allahabad,District
+IND.34.4_1,Uttar Pradesh,Ambedkar Nagar,District
+IND.34.5_1,Uttar Pradesh,Amethi,District
+IND.34.6_1,Uttar Pradesh,Amroha,District
+IND.34.7_1,Uttar Pradesh,Auraiya,District
+IND.34.8_1,Uttar Pradesh,Azamgarh,District
+IND.34.9_1,Uttar Pradesh,Baghpat,District
+IND.34.10_1,Uttar Pradesh,Bahraich,District
+IND.34.11_1,Uttar Pradesh,Ballia,District
+IND.34.12_1,Uttar Pradesh,Balrampur,District
+IND.34.13_1,Uttar Pradesh,Banda,District
+IND.34.14_1,Uttar Pradesh,Barabanki,District
+IND.34.15_1,Uttar Pradesh,Bareilly,District
+IND.34.16_1,Uttar Pradesh,Basti,District
+IND.34.17_1,Uttar Pradesh,Bijnor,District
+IND.34.18_1,Uttar Pradesh,Budaun,District
+IND.34.19_1,Uttar Pradesh,Bulandshahr,District
+IND.34.20_1,Uttar Pradesh,Chandauli,District
+IND.34.21_1,Uttar Pradesh,Chitrakoot,District
+IND.34.22_1,Uttar Pradesh,Deoria,District
+IND.34.23_1,Uttar Pradesh,Etah,District
+IND.34.24_1,Uttar Pradesh,Etawah,District
+IND.34.25_1,Uttar Pradesh,Faizabad,District
+IND.34.26_1,Uttar Pradesh,Farrukhabad,District
+IND.34.27_1,Uttar Pradesh,Fatehpur,District
+IND.34.28_1,Uttar Pradesh,Firozabad,District
+IND.34.29_1,Uttar Pradesh,Gautam Buddha Nagar,District
+IND.34.30_1,Uttar Pradesh,Ghaziabad,District
+IND.34.31_1,Uttar Pradesh,Ghazipur,District
+IND.34.32_1,Uttar Pradesh,Gonda,District
+IND.34.33_1,Uttar Pradesh,Gorakhpur,District
+IND.34.34_1,Uttar Pradesh,Hamirpur,District
+IND.34.35_1,Uttar Pradesh,Hapur,District
+IND.34.36_1,Uttar Pradesh,Hardoi,District
+IND.34.37_1,Uttar Pradesh,Hathras,District
+IND.34.38_1,Uttar Pradesh,Jalaun,District
+IND.34.39_1,Uttar Pradesh,Jaunpur,District
+IND.34.40_1,Uttar Pradesh,Jhansi,District
+IND.34.41_1,Uttar Pradesh,Kannauj,District
+IND.34.42_1,Uttar Pradesh,Kanpur Dehat,District
+IND.34.43_1,Uttar Pradesh,Kanpur Nagar,District
+IND.34.44_1,Uttar Pradesh,Kasganj,District
+IND.34.45_1,Uttar Pradesh,Kaushambi,District
+IND.34.46_1,Uttar Pradesh,Kushinagar,District
+IND.34.47_1,Uttar Pradesh,Lakhimpur Kheri,District
+IND.34.48_1,Uttar Pradesh,Lalitpur,District
+IND.34.49_1,Uttar Pradesh,Lucknow,District
+IND.34.50_1,Uttar Pradesh,Maharajganj,District
+IND.34.51_1,Uttar Pradesh,Mahoba,District
+IND.34.52_1,Uttar Pradesh,Mainpuri,District
+IND.34.53_1,Uttar Pradesh,Mathura,District
+IND.34.54_1,Uttar Pradesh,Mau,District
+IND.34.55_1,Uttar Pradesh,Meerut,District
+IND.34.56_1,Uttar Pradesh,Mirzapur,District
+IND.34.57_1,Uttar Pradesh,Moradabad,District
+IND.34.58_1,Uttar Pradesh,Muzaffarnagar,District
+IND.34.59_1,Uttar Pradesh,Pilibhit,District
+IND.34.60_1,Uttar Pradesh,Pratapgarh,District
+IND.34.61_1,Uttar Pradesh,Rae Bareli,District
+IND.34.62_1,Uttar Pradesh,Rampur,District
+IND.34.63_1,Uttar Pradesh,Saharanpur,District
+IND.34.64_1,Uttar Pradesh,Sambhal,District
+IND.34.65_1,Uttar Pradesh,Sant Kabir Nagar,District
+IND.34.66_1,Uttar Pradesh,Sant Ravi Das Nagar,District
+IND.34.67_1,Uttar Pradesh,Shahjahanpur,District
+IND.34.68_1,Uttar Pradesh,Shamli,District
+IND.34.69_1,Uttar Pradesh,Shravasti,District
+IND.34.70_1,Uttar Pradesh,Siddharth Nagar,District
+IND.34.71_1,Uttar Pradesh,Sitapur,District
+IND.34.72_1,Uttar Pradesh,Sonbhadra,District
+IND.34.73_1,Uttar Pradesh,Sultanpur,District
+IND.34.74_1,Uttar Pradesh,Unnao,District
+IND.34.75_1,Uttar Pradesh,Varanasi,District
+IND.35.1_1,Uttarakhand,Almora,District
+IND.35.2_1,Uttarakhand,Bageshwar,District
+IND.35.3_1,Uttarakhand,Chamoli,District
+Z05.35.3_1,Uttarakhand,Chamoli,District
+IND.35.4_1,Uttarakhand,Champawat,District
+IND.35.5_1,Uttarakhand,Dehradun,District
+IND.35.6_1,Uttarakhand,Garhwal,District
+IND.35.7_1,Uttarakhand,Hardwar,District
+IND.35.8_1,Uttarakhand,Nainital,District
+IND.35.9_1,Uttarakhand,Pithoragarh,District
+Z05.35.9_1,Uttarakhand,Pithoragarh,District
+IND.35.10_1,Uttarakhand,Rudraprayag,District
+IND.35.11_1,Uttarakhand,Tehri Garhwal,District
+IND.35.12_1,Uttarakhand,Udham Singh Nagar,District
+IND.35.13_1,Uttarakhand,Uttarkashi,District
+Z09.35.13_1,Uttarakhand,Uttarkashi,District
+IND.36.1_1,West Bengal,Alipurduar,District
+IND.36.2_1,West Bengal,Bankura,District
+IND.36.3_1,West Bengal,Barddhaman,District
+IND.36.4_1,West Bengal,Birbhum,District
+IND.36.5_1,West Bengal,Dakshin Dinajpur,District
+IND.36.6_1,West Bengal,Darjiling,District
+IND.36.7_1,West Bengal,Haora,District
+IND.36.8_1,West Bengal,Hugli,District
+IND.36.9_1,West Bengal,Jalpaiguri,District
+IND.36.10_1,West Bengal,Koch Bihar,District
+IND.36.11_1,West Bengal,Kolkata,District
+IND.36.12_1,West Bengal,Maldah,District
+IND.36.13_1,West Bengal,Murshidabad,District
+IND.36.14_1,West Bengal,Nadia,District
+IND.36.15_1,West Bengal,North 24 Parganas,District
+IND.36.16_1,West Bengal,Pashchim Medinipur,District
+IND.36.17_1,West Bengal,Purba Medinipur,District
+IND.36.18_1,West Bengal,Puruliya,District
+IND.36.19_1,West Bengal,South 24 Parganas,District
+IND.36.20_1,West Bengal,Uttar Dinajpur,District

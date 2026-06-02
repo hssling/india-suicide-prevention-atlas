@@ -1,0 +1,12 @@
+{
+  "n_states": 31,
+  "log_sex_male_mean": 0.16634420584660217,
+  "log_sex_female_mean": -0.2129120298513107,
+  "sex_male_multiplier_mean": 1.1809795318310274,
+  "sex_female_multiplier_mean": 0.8082272339591932,
+  "max_rhat_theta": 1.0001009839538761,
+  "chains": 4,
+  "draws": 2000,
+  "warmup": 2000,
+  "model_version": "state-sex-v1"
+}

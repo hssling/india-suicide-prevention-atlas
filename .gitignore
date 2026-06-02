@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.parquet
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.Trashes
+.vscode/
+.idea/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# Local environment
+.env
+.venv/
+venv/
+*.egg-info/

@@ -1,0 +1,22 @@
+{
+  "n_states": 30,
+  "national_rate_used_per100k": 13.565017245241386,
+  "mu_theta_mean": 2.553502104454704,
+  "mu_theta_95ci": [
+    2.3424919167827634,
+    2.765919689285647
+  ],
+  "sigma_theta_mean": 0.5742093098513212,
+  "sigma_theta_95ci": [
+    0.4356268485979421,
+    0.7535725453588823
+  ],
+  "max_rhat_theta": 1.0012341025560165,
+  "min_ess_theta_approx": 4000,
+  "chains": 4,
+  "warmup": 2000,
+  "draws": 2000,
+  "seed": 20260529,
+  "n_data_per_state": 2,
+  "model_description": "Joint measurement-error: NCRB Poisson + GBD Normal observe same theta_s with NCRB scaled by under-registration c_s"
+}

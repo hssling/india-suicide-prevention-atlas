@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: India Suicide Prevention Atlas
+message: >-
+  If you use this software or data, please cite the manuscript and this
+  repository as below.
+type: software
+authors:
+  - given-names: H S
+    family-names: Siddalingaiah
+    name-particle: Dr
+    email: hssling@yahoo.com
+    affiliation: >-
+      Department of Community Medicine, Shridevi Institute of Medical Sciences
+      and Research Hospital, Tumkur, Karnataka, India
+    orcid: 'https://orcid.org/0000-0002-4771-8285'
+repository-code: 'https://github.com/hssling/india-suicide-prevention-atlas'
+url: 'https://hssling.github.io/india-suicide-prevention-atlas/'
+abstract: >-
+  Decision-analytic synthesis of five Indian suicide-surveillance systems
+  (NCRB, GBD, WHO, SRS, MCCD) anchored to the population-based Sample
+  Registration System, with state-level NSPS-2030 trajectory forecasts,
+  Population-Attributable Fractions for four modifiable risk factors,
+  optimal investment allocation, cost-of-inaction monetisation, and an
+  NSPS Achievability Index per state.
+keywords:
+  - suicide
+  - India
+  - National Suicide Prevention Strategy
+  - population-attributable fraction
+  - cost-effectiveness
+  - Bayesian forecast
+  - 16th Finance Commission
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-06-02'
+preferred-citation:
+  type: article
+  title: >-
+    An evidence-based investment roadmap for India's National Suicide
+    Prevention Strategy 2030 target: a decision-analytic synthesis of five
+    surveillance systems, attributable risk and state-level cost-effectiveness
+  authors:
+    - given-names: H S
+      family-names: Siddalingaiah
+      name-particle: Dr
+      orcid: 'https://orcid.org/0000-0002-4771-8285'
+  year: 2026
+  journal: Indian Journal of Medical Research
+  status: under-review

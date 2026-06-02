@@ -1,0 +1,29 @@
+# India Suicide Prevention Atlas — analytic pipeline requirements
+# Python 3.11+
+# Install: pip install -r requirements.txt
+
+# Core data
+pandas>=2.0
+numpy>=1.26
+scipy>=1.13          # provides scipy.optimize.linprog (HiGHS LP backend)
+scikit-learn>=1.5    # PCA composite for socioeconomic index
+pyarrow>=15.0        # parquet support
+
+# Bayesian model
+pymc>=6.0
+arviz>=1.0
+
+# PDF extraction
+pdfplumber>=0.11
+
+# Geospatial (optional; used for atlas state-rate map only)
+geopandas>=0.14
+shapely>=2.0
+
+# Visualisation
+matplotlib>=3.8
+Pillow>=10.0         # composite figure assembly
+
+# Document generation (only for offline DOCX bundle builds; not needed for analytic pipeline)
+python-docx>=1.1
+openpyxl>=3.1

@@ -1,0 +1,22 @@
+{
+  "n_states": 30,
+  "national_rate_used_per100k": 13.565017245241386,
+  "mu_theta_mean": 2.37849928756786,
+  "mu_theta_95ci": [
+    2.1918310165182886,
+    2.565605048425571
+  ],
+  "sigma_theta_mean": 0.4805851854974231,
+  "sigma_theta_95ci": [
+    0.3540005136048229,
+    0.6513985715590864
+  ],
+  "max_rhat_theta": 1.0006357589276178,
+  "max_rhat_c": 1.00079805149613,
+  "chains": 4,
+  "warmup": 2000,
+  "draws": 2000,
+  "seed": 20260530,
+  "c_prior": "Gamma(2, 2): mean 1, supports c in (0, inf)",
+  "model_version": "v2-gamma-prior-on-c"
+}
